@@ -1,0 +1,20 @@
+- npx create-react-app chatapp
+
+- cd chatapp
+
+- srcの中身を削除
+
+- index.jsxの作成と中身書く
+
+- npm start
+
+-----------------------
+
+- フォルダ構造の作成
+------------------------
+- control + C Reactの開発サーバー終了
+
+- react-router-domのインストール
+ - npm i react-router-dom
+
+- package.jsonの確認
